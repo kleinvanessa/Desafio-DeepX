@@ -1,0 +1,1 @@
+Poderia  ser feita a análise de cada posição que o rover assume e ver se esta posição está ocupada por outro rover ou não. Não implementei esta análise pois para o padrão de entrada pedido ficaria incoveniente. O desafio pedia pra usar uma entrada e ter uma saida, considerando o tamanho do quadro de coordenadas.
